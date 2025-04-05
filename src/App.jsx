@@ -42,7 +42,7 @@ function App() {
       <div className="card shadow-lg p-4 border-0">
         <div className="card-body">
           <h1 className="text-center text-primary mb-4 display-4 fw-bold">
-            Exploring the Gujra Sweets: A Sweet Journey!
+            Exploring the Gujrati Sweets: A Sweet Journey!
           </h1>
           <h2 className="text-center text-secondary mb-4">By Arman Gupta</h2>
           
